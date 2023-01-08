@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yaniker
-- 👀 I’m interested in Computer Vision and Machine Learning
-- 🌱 I’m currently a Ph.D. candidate
-- 💞️ I’m looking to collaborate on Medical AI projects
+- 👋 Hi, I’m Dr. Erim Yanik
+- 👀 I’m interested in Computer Vision, Deep Learning, and Meta Learning
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me out: E: yanike@rpi.edu / erimyanik@gmail.com
 
 <!---
