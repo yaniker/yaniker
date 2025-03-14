@@ -18,7 +18,7 @@ Infra: AWS (S3, EC2), IBM AiMOS, FSU RCC
 
 **Let’s Connect**  
 📧 erimyanik@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/erim-yanik/)
+🔗 [LinkedIn](https://www.linkedin.com/in/erim-yanik/)  
 💬 Open to collabs on AI/ML projects—DM me!
 
 <!---
