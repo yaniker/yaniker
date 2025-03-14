@@ -9,9 +9,9 @@ V-CAS Startup: Led development of an end-to-end system for laparoscopic surgery 
 Past Wins: Built meta-models with 99.9% accuracy on minimal data and cross-view AI for combat medics under a DEVCOM grant.
 
 **Tech Stack**
-Code: Python (9+ yrs), \nMatlab, Git, Bash (HPC/Slurm)
-ML: TensorFlow/Keras, PyTorch, Hugging Face, Scikit-learn
-Infra: AWS (S3, EC2), IBM AiMOS, FSU RCC
+Code: Python (9+ yrs), Matlab, Git, Bash (HPC/Slurm)  
+ML: TensorFlow/Keras, PyTorch, Hugging Face, Scikit-learn  
+Infra: AWS (S3, EC2), IBM AiMOS, FSU RCC  
 
 **Featured Project**
 One-Shot Skill Assessment: Meta-learning for high-stakes domains—99% data reduction, published in Computers in Biology and Medicine (2024).
