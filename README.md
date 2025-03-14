@@ -17,8 +17,8 @@ Infra: AWS (S3, EC2), IBM AiMOS, FSU RCC
 [One-Shot Skill Assessment in High Stakes Domains with Limited Data via Meta Learning] (https://github.com/yaniker/One-shot-skill-assessment-in-high-stakes-domains-with-limited-data-via-meta-learning): Meta-learning for high-stakes domains—99% data reduction, published in Computers in Biology and Medicine (2024).
 
 **Let’s Connect**  
-📧 erimyanik@gmail.com
-🔗 LinkedIn (add your link if you have one)
+📧 erimyanik@gmail.com  
+🔗 LinkedIn (add your link if you have one)  
 💬 Open to collabs on AI/ML projects—DM me!
 
 <!---
