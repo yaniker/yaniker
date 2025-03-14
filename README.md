@@ -8,7 +8,7 @@ Research @ FSU: Crafting AI agents with LLMs on AiMOS (world’s largest researc
 V-CAS Startup: Led development of an end-to-end system for laparoscopic surgery exams. AWS-powered, instant results, 25% cost reduction. Finalist in SAGES global competition.
 Past Wins: Built meta-models with 99.9% accuracy on minimal data and cross-view AI for combat medics under a DEVCOM grant.
 
-**Tech Stack**
+**Tech Stack**  
 Code: Python (9+ yrs), Matlab, Git, Bash (HPC/Slurm)  
 ML: TensorFlow/Keras, PyTorch, Hugging Face, Scikit-learn  
 Infra: AWS (S3, EC2), IBM AiMOS, FSU RCC  
