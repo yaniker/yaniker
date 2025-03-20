@@ -8,9 +8,6 @@ I’m a faculty member at Florida A&M University - Florida State University Coll
 **V-CAS Startup:** Led development of an end-to-end system for laparoscopic surgery exams. AWS-powered, instant results, 25% cost reduction. Finalist in SAGES global competition.  
 **Past Wins:** Built meta-models with 99.9% accuracy on minimal data and cross-view AI for combat medics under a DEVCOM grant.
 
-**Featured Project**  
-[One-Shot Skill Assessment in High Stakes Domains with Limited Data via Meta Learning](https://github.com/yaniker/One-shot-skill-assessment-in-high-stakes-domains-with-limited-data-via-meta-learning): Meta-learning for high-stakes domains—99% data reduction, published in Computers in Biology and Medicine (2024).
-
 **Let’s Connect**  
 📧 erimyanik@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/erim-yanik/)  
