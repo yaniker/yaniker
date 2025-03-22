@@ -1,7 +1,7 @@
 Hi, I’m Erim Yanik 👋
 
 **About Me**  
-I’m a faculty member at Florida A&M University - Florida State University College of Engineering. I specialize in translating cutting-edge AI research into real-world solutions. I thrive in fast-paced, high-stakes, collaborative environments, building tools that deliver impact.
+I’m a faculty member at Florida A&M University - Florida State University College of Engineering. I develop AI/ML applications to solve real-life challenges.
 
 **Let’s Connect**  
 📧 erimyanik@gmail.com  
