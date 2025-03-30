@@ -2,7 +2,7 @@ Hi, I’m Erim Yanik 👋
 
 I’m a faculty member at Florida A&M University - Florida State University College of Engineering. I am an applied researcher and ML engineer. I am passionate about solving real life problems especially those that endanger human life such as surgery.
 
-**Let’s Connect**  
+**To Connect**  
 📧 erimyanik@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/erim-yanik/)  
 💬 Open to collabs on AI/ML projects—DM me!
