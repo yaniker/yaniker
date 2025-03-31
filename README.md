@@ -1,7 +1,7 @@
 Hi, I’m Erim Yanik 👋
 
 **Note**  
-Having worked on an Army Grant, I had to avoid public repositories until recently. I am releasing some of the work I have done now as I get the chance.
+Having worked on an Army Grant, I had to avoid public repositories until recently. I am releasing some of the methods I have used now as I get the chance.
 
 **About me**
 I’m a faculty member at Florida A&M University - Florida State University College of Engineering. I am an applied researcher and ML engineer. I am passionate about solving real life problems especially those that endanger human life such as surgery.
