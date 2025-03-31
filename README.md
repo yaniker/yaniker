@@ -1,6 +1,6 @@
 Hi, I’m Erim Yanik 👋
 
-**Note**
+**Note**  
 Having worked on an Army Grant, I had to avoid public repositories until recently. I am releasing some of the work I have done as I get the chance.
 
 **About me**
