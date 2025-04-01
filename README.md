@@ -9,7 +9,7 @@ I’m a faculty member at Florida A&M University - Florida State University Coll
 **To Connect**  
 📧 erimyanik@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/erim-yanik/)  
-💬 Open to collabs on AI/ML projects—DM me!
+💬 Open to collabs on AI/ML projects!
 
 <!---
 yaniker/yaniker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
