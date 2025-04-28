@@ -4,7 +4,9 @@ Hi, I’m Erim Yanik 👋
 Having been on an Army Grant, I was not active here until recently. I am releasing some of the methods I have used now as I get the chance.
 
 **About me**  
-I’m a Generative AI Research Engineer at FAMU-FSU College of Engineering. I enjoy solving real life problems.
+I’m a Generative AI Researcher (Faculty Appointment) at FAMU-FSU College of Engineering.
+I enjoy solving real life problems.
+I deeply care for trustworthiness, uncertainty, and safety of predictive systems.
 
 **To Connect**  
 📧 erimyanik@gmail.com  
