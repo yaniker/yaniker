@@ -4,7 +4,6 @@ Hi, I’m Erim Yanik 👋
 Having been on an Army Grant, I was not active here until recently. I am releasing some of the methods I have used now as I get the chance.
 
 **About me**  
-I’m a Machine Learning Scientist.  
 I develop production-grade AI/ML systems to solve real life problems.  
 I deeply care trustworthiness, uncertainty, and safety of predictive systems.
 
