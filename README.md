@@ -1,8 +1,5 @@
 Hi, I’m Erim Yanik 👋
 
-**Note**  
-Having been on an Army Grant, I was not active here until recently. I am releasing some of the methods I have used now.
-
 **About me**  
 I develop production-grade AI/ML systems and maintain OSS for solving real life problems.  
 I care trustworthiness, uncertainty, and safety of predictive systems.
