@@ -1,8 +1,7 @@
 Hi, I’m Erim Yanik 👋
 
 **About me**  
-I develop production-grade AI/ML systems and maintain OSS for solving real life problems.  
-I care trustworthiness, uncertainty, and safety of predictive systems.
+I develop production-grade voice AI/ML systems and maintain OSS for trustworthiness, uncertainty, and safety checks of predictive systems.
 
 **To Connect**  
 📧 erimyanik@gmail.com  
